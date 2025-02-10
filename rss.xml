@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
   <channel>
-     <title>Yan Holtz's Blog</title>
-     <description>Yan Holtz's blog on data analytics and data visualization.</description>
-     <link>https://www.yan-holtz.com/blog</link>
+     <title>Jones Kengie's Blog</title>
+     <description>Jones Kengie's blog on data analytics and data visualization.</description>
+     <link>https://www.aiemperor.tech/blog</link>
 
 
 
@@ -16,7 +16,7 @@
        <link>file:///Users/yan/Desktop/Homepage/blog/dataToViz.html</link>
        <guid>file:///Users/yan/Desktop/Homepage/blog/dataToViz.html</guid>
        <pubDate>Sun, 19 May 2002 15:21:36 GMT</pubDate>
-       <enclosure url="https://www.yan-holtz.com/img/portfolio/poster_sample.png" length="1221" type="png"/>
+       <enclosure url="https://www.aiemperor.tech/img/portfolio/poster_sample.png" length="1221" type="png"/>
      </item>
 
 
